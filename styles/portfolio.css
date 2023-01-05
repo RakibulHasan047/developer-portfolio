@@ -127,3 +127,32 @@ section{
 .skill-description{
     color: #757575;
 }
+
+/* Resume Style  */
+.resume-content{
+    display: flex;
+    gap: 40px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #757575;
+    margin: 10px;
+}
+.resume .sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin: 20px;
+}
+.resume .description{
+    color: #757575;
+}
+.resume-button{
+    margin-top: 30px;
+    text-align: center;
+}
